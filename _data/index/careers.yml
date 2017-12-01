@@ -7,11 +7,16 @@
     detail: |
       Current Focus:
       <br>
-      <li>Full stack developer with Node.js, Feathers.js and Angular.
+      Full stack developer with Node.js, Feathers.js, Angular/Typescript, d3.js.
       <br>
-      <li>Raffia (Realtime Ansible Framework for Integrated Automation).
+      Raffia (Realtime Ansible Framework for Integrated Automation).
       <br>
-      <li>DevOps with Ansible and Puppet.
+      DevOps with Ansible and Puppet. AWS, Lambda, Step Functions, API GW.
+      <br>
+      Experience:
+      <br>
+      MEAN, Responsive Design, RESTful, WebSockets, Docker, Vagrant, Jenkins, CI/CD,
+      Agile Scrum, Lean Methodology, ...
     i18n: lead_developer
   date:
     detail: Present Date
@@ -22,15 +27,17 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Vertex Data Science Ltd
+    i18n: vertex_ltd
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: |
+      Architected, deployed and administered secure internet firewall
+      and virus scanning solution for United Utilities
+    i18n: company_vertex_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: March 1998
+    i18n: company_vertex_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Information Security Analyst
+    i18n: company_vertex_job
   icon: fa-plus-square
