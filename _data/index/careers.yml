@@ -4,7 +4,11 @@
     detail: DXC.Technology
     i18n: dxc_technology
   desc:
-    detail: Lead Developer, System Design Architect and Technologist
+    detail: |
+      Current Focus:
+      Full stack developer with Node.js, Feathers.js and Angular
+      Raffia (Realtime Ansible Framework for Integrated Automation)
+      DevOps with Ansible and Puppet
     i18n: lead_developer
   date:
     detail: Present Date
