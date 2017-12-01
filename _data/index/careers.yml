@@ -41,3 +41,60 @@
     detail: Information Security Analyst
     i18n: company_vertex_job
   icon: fa-plus-square
+
+- name:
+    detail: Origin (formally Philips Communications and Processing)
+    i18n: company_origin
+  desc:
+    detail: |
+      During this time I migrated from Mainframe Systems programmer to
+      Unix Systems Administrator and gained my first experience of
+      Linux.
+    i18n: company_origin_desc
+  date:
+    detail: April 1997
+    i18n: company_origin_date
+  job:
+    detail: |
+      Senior Systems Administrator (Unix)
+      <br>
+      Senior IBM MVS Systems Programmer &
+      IBM Network Systems Programmer
+    i18n: company_origin_job
+  icon: fa-plus-square
+
+- name:
+    detail: Multipart / Leyland DAF
+    i18n: company_daf
+  desc:
+    detail: |
+      My first job out of college working at Multipart, which at the time
+      was Europe's largest robotic warehouse. Focusing on just-in-time
+      scheduling systems and integrations.
+    i18n: company_daf_desc
+  date:
+    detail: June 1990
+    i18n: company_daf_date
+  job:
+    detail: |
+      IBM MVS Systems Programmer
+      <br>
+      Analyst / Programmer
+    i18n: company_daf_job
+  icon: fa-plus-square
+
+- name:
+    detail: Blackburn College of Technology and Design
+    i18n: company_tech
+  desc:
+    detail: |
+
+    i18n: company_tech_desc
+  date:
+    detail: July 1985
+    i18n: company_tech_date
+  job:
+    detail: |
+
+    i18n: company_tech_job
+  icon: fa-plus-square
