@@ -7,9 +7,11 @@
     detail: |
       Current Focus:
 
-      Full stack developer with Node.js, Feathers.js and Angular.
-      Raffia (Realtime Ansible Framework for Integrated Automation).
-      DevOps with Ansible and Puppet.
+      * Full stack developer with Node.js, Feathers.js and Angular.
+
+      * Raffia (Realtime Ansible Framework for Integrated Automation).
+
+      * DevOps with Ansible and Puppet.
     i18n: lead_developer
   date:
     detail: Present Date
