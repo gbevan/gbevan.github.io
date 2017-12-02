@@ -49,18 +49,18 @@
   date:
     detail: |
       <div style="display:table-cell;">
-      <table style="margin-bottom:-5px; width:auto; float:right;">
-        <tr>
-          <td>
-            March 1998
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align:center; font-size:14pt;">
-            &uarr;
-          </td>
-        </tr>
-      </table>
+        <table style="margin-bottom:-5px; width:auto; float:right;">
+          <tr>
+            <td>
+              March 1998
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align:center; font-size:14pt;">
+              &uarr;
+            </td>
+          </tr>
+        </table>
       </div>
     i18n: company_vertex_date
   job:
@@ -112,18 +112,20 @@
     i18n: company_daf_desc
   date:
     detail: |
-      <table style="margin-bottom:-20px; width:auto; float:right; display:contents;">
-        <tr>
-          <td>
-            June 1990
-          </td>
-        </tr>
-        <tr>
-          <td style="text-align:center; font-size:14pt;">
-            &uarr;
-          </td>
-        </tr>
-      </table>
+      <div style="display:table-cell;">
+        <table style="margin-bottom:-20px; width:auto; float:right; display:contents;">
+          <tr>
+            <td>
+              June 1990
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align:center; font-size:14pt;">
+              &uarr;
+            </td>
+          </tr>
+        </table>
+      </div>
     i18n: company_daf_date
   job:
     detail: |
