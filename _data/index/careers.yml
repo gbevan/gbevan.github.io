@@ -48,8 +48,8 @@
     i18n: company_vertex_desc
   date:
     detail: |
-      <div>
-      <table style="margin-bottom:-20px; width:auto; float:right; display:contents;">
+      <div style="display:table-cell;">
+      <table style="margin-bottom:-5px; width:auto; float:right;">
         <tr>
           <td>
             March 1998
