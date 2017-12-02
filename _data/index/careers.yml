@@ -19,7 +19,10 @@
       Agile Scrum, Lean Methodology, ...
     i18n: lead_developer
   date:
-    detail: Present Date
+    detail: |
+      Present Date
+      <br>
+      &uarr;
     i18n: present_date
   job:
     detail: Lead Developer, System Design Architect and Technologist
