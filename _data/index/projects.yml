@@ -29,3 +29,10 @@
   repo: dockerfile-syntax-highlighter
   img: /static/assets/img/landing/github_avatar.png
   desc: Brackets syntax highlighter for Dockerfiles
+
+- name: pastmon
+  i18n: pastmon
+  gh_user: gbevan
+  repo: pastmon
+  img: /static/assets/img/landing/github_avatar.png
+  desc: OpenSource Passive Application Response Time Monitor (see http://pastmon.sourceforge.net/wp/)
