@@ -20,7 +20,7 @@
     i18n: lead_developer
   date:
     detail: |
-      <table style="margin-bottom: -20px;">
+      <table style="margin-bottom:-20px; display:contents;">
         <tr>
           <td>
             Present Date
