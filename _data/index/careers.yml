@@ -21,8 +21,7 @@
   date:
     detail: |
       Present Date
-      <br>
-      &uarr;
+      <div style="text-align:center">&uarr;</div>
     i18n: present_date
   job:
     detail: Lead Developer, System Design Architect and Technologist
