@@ -8,16 +8,24 @@
   repo: partout
   img: /static/assets/img/landing/partoutx.jpg
   desc: A pure Javascript/Node.js DevOps Data and Event Driven Policy Based Configuration Management tool for the Internet of Everything - Where policies compile to native machine code at runtime.
-#
-#- name: Python
-#  i18n: cpython
-#  gh_user: python
-#  repo: cpython
-#  img: /static/assets/img/landing/python.png
-#  desc: This project is other's project. I use another request to get repo's information.
-#
-#- name: Google
-#  i18n: google
-#  url: https://google.com
-#  img: /static/assets/img/landing/google.png
-#  desc: This is another project.
+
+- name: sails-arangodb
+  i18n: sails_arangodb
+  gh_user: partoutx
+  repo: sails-arangodb
+  img: /static/assets/img/landing/partoutx.jpg
+  desc: Waterline ORM adapter for ArangoDB.
+
+- name: portage-arangodb-overlay
+  i18n: portage_arangodb_overlay
+  gh_user: gbevan
+  repo: portage-arangodb-overlay
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Gentoo Portage overlay for ArangoDB.
+
+- name: dockerfile-syntax-highlighter
+  i18n: dockerfile-syntax-highlighter
+  gh_user: gbevan
+  repo: dockerfile-syntax-highlighter
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Brackets syntax highlighter for Dockerfiles
