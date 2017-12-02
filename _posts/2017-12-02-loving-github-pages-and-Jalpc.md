@@ -4,7 +4,7 @@ title:  "Github Pages and Japlc Jekyll Theme"
 date:   2017-12-02
 desc: "My first blog on my github profile"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [blog]
+categories: []
 tags: [Jalpc,Jekyll,gbevan]
 icon: icon-html
 ---
