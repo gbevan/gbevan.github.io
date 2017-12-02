@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "&hearts; Github Pages and Japlc Jekyll Theme"
+title:  "Github Pages and Japlc Jekyll Theme"
 date:   2017-12-02
 desc: "My first blog on my github profile"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
