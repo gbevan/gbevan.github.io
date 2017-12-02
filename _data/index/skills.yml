@@ -2,18 +2,5 @@
 
 label: Ability
 id : cs
-aspects:
-  - GitHub/Lab
-  - Motivation
-  - HTML5
-  - Angular
-  - Machine<br>Learning
-  - Node.js
-  - Python
-  - Scrum
-  - Lean
-  - Ansible
-  - Jenkins
-  - Javascript
-  - ES6
-percentage: 90, 95, 80, 70, 15, 85, 70, 80, 60, 90, 75, 95, 80
+aspects: GitHub|Lab, Motivation, HTML5, Angular, M/L, Node.js, Python, Scrum, Lean, Ansible, Jenkins, Javascript, ES6, C
+percentage: 90, 95, 80, 70, 15, 85, 70, 80, 60, 90, 75, 95, 80, 95
