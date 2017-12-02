@@ -110,7 +110,7 @@
     i18n: company_daf_desc
   date:
     detail: |
-      <table style="margin-bottom: -20px;">
+      <table style="margin-bottom:-20px; width:auto; float:right; display:contents;">
         <tr>
           <td>
             June 1990
