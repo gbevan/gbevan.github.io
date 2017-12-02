@@ -27,8 +27,8 @@ author:  # change following line to your infomation.
     - name: fa-github
     - name: fa-linux
   skill_icon2:
-    - name: fa-linux
-    - name: fa-github
+    - name: fa-amazon
+    - name: fa-gitlab
 #    - name: icon-nodejs
   desc: Lead Developer, System Design Architect and Technologist at DXC.Technology
 
