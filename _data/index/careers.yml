@@ -20,7 +20,7 @@
     i18n: lead_developer
   date:
     detail: |
-      <table>
+      <table style="margin-bottom: -20px;">
         <tr>
           <td>
             Present Date
@@ -47,7 +47,19 @@
       and virus scanning solution for United Utilities
     i18n: company_vertex_desc
   date:
-    detail: March 1998
+    detail: |
+      <table style="margin-bottom: -20px;">
+        <tr>
+          <td>
+            March 1998
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align:center; font-size:14pt;">
+            &uarr;
+          </td>
+        </tr>
+      </table>
     i18n: company_vertex_date
   job:
     detail: Information Security Analyst
@@ -64,7 +76,19 @@
       Linux.
     i18n: company_origin_desc
   date:
-    detail: April 1997
+    detail: |
+      <table style="margin-bottom: -20px;">
+        <tr>
+          <td>
+            April 1997
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align:center; font-size:14pt;">
+            &uarr;
+          </td>
+        </tr>
+      </table>
     i18n: company_origin_date
   job:
     detail: |
@@ -85,7 +109,19 @@
       scheduling systems and integrations.
     i18n: company_daf_desc
   date:
-    detail: June 1990
+    detail: |
+      <table style="margin-bottom: -20px;">
+        <tr>
+          <td>
+            June 1990
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align:center; font-size:14pt;">
+            &uarr;
+          </td>
+        </tr>
+      </table>
     i18n: company_daf_date
   job:
     detail: |
@@ -103,7 +139,19 @@
 
     i18n: company_tech_desc
   date:
-    detail: July 1985
+    detail: |
+      <table style="margin-bottom: -20px;">
+        <tr>
+          <td>
+            July 1985
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align:center; font-size:14pt;">
+            &uarr;
+          </td>
+        </tr>
+      </table>
     i18n: company_tech_date
   job:
     detail: |
