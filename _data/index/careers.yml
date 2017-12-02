@@ -113,7 +113,7 @@
   date:
     detail: |
       <div style="display:table-cell;">
-        <table style="margin-bottom:-20px; width:auto; float:right; display:contents;">
+        <table style="margin-bottom:-5px; width:auto; float:right; display:contents;">
           <tr>
             <td>
               June 1990
