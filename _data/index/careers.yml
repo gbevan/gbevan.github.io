@@ -24,11 +24,14 @@
         <tr>
           <td>
             Present Date
+          </td>
+        </tr>
         <tr>
-          <td style="text-align:center; font-size:18pt;">
+          <td style="text-align:center; font-size:14pt;">
             &uarr;
+          </td>
+        </tr>
       </table>
-
     i18n: present_date
   job:
     detail: Lead Developer, System Design Architect and Technologist
