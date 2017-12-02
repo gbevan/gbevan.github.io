@@ -20,8 +20,15 @@
     i18n: lead_developer
   date:
     detail: |
-      Present Date
-      <div style="text-align:center">&uarr;</div>
+      <table>
+        <tr>
+          <td>
+            Present Date
+        <tr>
+          <td style="text-align:center; font-size:18pt;">
+            &uarr;
+      </table>
+
     i18n: present_date
   job:
     detail: Lead Developer, System Design Architect and Technologist
