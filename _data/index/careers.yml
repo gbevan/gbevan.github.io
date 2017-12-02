@@ -20,7 +20,7 @@
     i18n: lead_developer
   date:
     detail: |
-      <table style="margin-bottom:-20px; display:contents;">
+      <table style="margin-bottom:-20px;">
         <tr>
           <td>
             Present Date
@@ -48,6 +48,7 @@
     i18n: company_vertex_desc
   date:
     detail: |
+      <div>
       <table style="margin-bottom:-20px; width:auto; float:right; display:contents;">
         <tr>
           <td>
@@ -60,6 +61,7 @@
           </td>
         </tr>
       </table>
+      </div>
     i18n: company_vertex_date
   job:
     detail: Information Security Analyst
