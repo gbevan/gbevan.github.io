@@ -30,6 +30,13 @@
   img: /static/assets/img/landing/github_avatar.png
   desc: Brackets syntax highlighter for Dockerfiles
 
+- name: sshui
+  i18n: sshui
+  gh_user: gbevan
+  repo: sshui
+  img: /static/assets/img/landing/github_avatar.png
+  desc: UI for persistent SSH Sessions and Tunnels with node.js, nw, Angular and vaulted/encrypted lowdb json db
+
 - name: pastmon
   i18n: pastmon
   gh_user: gbevan
