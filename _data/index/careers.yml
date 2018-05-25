@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Lead Developer, System Design Architect and Technologist at DXC.Technology (formally Computer Sciences Corporation)
+    detail: DXC.Technology (formally Computer Sciences Corporation)
     i18n: dxc_technology
   desc:
     detail: |

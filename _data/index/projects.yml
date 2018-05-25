@@ -9,6 +9,13 @@
   img: /static/assets/img/landing/partoutx.jpg
   desc: A pure Javascript/Node.js DevOps Data and Event Driven Policy Based Configuration Management tool for the Internet of Everything - Where policies compile to native machine code at runtime.
 
+- name: vault-e2e-plugin
+  i18n: vault_e2e_plugin
+  gh_user: gbevan
+  repo: vault-e2e-plugin
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Proof-of-concept Hashicorp Vault End-to-End Encryption Plugin with secret interpolation.
+
 - name: sails-arangodb
   i18n: sails_arangodb
   gh_user: partoutx
