@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: DXC.Technology
+    detail: Lead Developer, System Design Architect and Technologist at DXC.Technology (formally Computer Sciences Corporation)
     i18n: dxc_technology
   desc:
     detail: |
@@ -11,11 +11,11 @@
       <br>
       - Raffia (Realtime Ansible Framework for Integrated Automation).
       <br>
-      - DevOps with Ansible and Puppet. AWS, Lambda, Step Functions, API GW.
+      - DevOps with Terraform, Kubernetes, Ansible and Puppet. AWS, Lambda, Step Functions, API GW. vSphere.
       <br>
       Experience:
       <br>
-      MEAN, Responsive Design, RESTful, WebSockets, Docker, Vagrant, Jenkins, CI/CD,
+      MEAN, Responsive Design, RESTful, WebSockets, Docker, Vagrant, Go, Vault, Jenkins Pipeline, CI/CD,
       Agile Scrum, Lean Methodology, ...
     i18n: lead_developer
   date:
