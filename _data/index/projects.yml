@@ -16,6 +16,13 @@
   img: /static/assets/img/landing/github_avatar.png
   desc: Proof-of-concept Hashicorp Vault End-to-End Encryption Plugin with secret interpolation.
 
+- name: atom-drawio
+  i18n: atom-drawio
+  gh_user: gbevan
+  repo: atom-drawio
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Atom package to allow creating and editting of draw.io diagrams 
+
 - name: sails-arangodb
   i18n: sails_arangodb
   gh_user: partoutx

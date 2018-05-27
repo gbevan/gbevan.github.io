@@ -7,15 +7,15 @@
     detail: |
       Current Focus:
       <br>
-      - Full stack developer with Node.js, Feathers.js, Angular/Typescript, d3.js.
+      - Full stack developer with Node.js, Feathersjs, Angular/Typescript, d3.js.
       <br>
-      - Raffia (Realtime Ansible Framework for Integrated Automation).
+      - Developed in-house application called Raffia (Realtime Ansible Framework for Integrated Automation)
+      which has been levereged in the core Bionix Program.
       <br>
-      - DevOps with Terraform, Kubernetes, Ansible and Puppet. AWS, Lambda, Step Functions, API GW. vSphere.
+      - DevOps with Jenkins Pipeline, CI/CD, Terraform, Kubernetes, Ansible and
+      Puppet. AWS, Lambda, Step Functions, API GW. vSphere.
       <br>
-      Experience:
-      <br>
-      MEAN, Responsive Design, RESTful, WebSockets, Docker, Vagrant, Go, Vault, Jenkins Pipeline, CI/CD,
+      - MEAN, Responsive Design, RESTful, WebSockets, Docker, Vagrant, Go, Vault, 
       Agile Scrum, Lean Methodology, ...
     i18n: lead_developer
   date:
@@ -44,7 +44,7 @@
   desc:
     detail: |
       Architected, deployed and administered secure internet firewall
-      and virus scanning solution for United Utilities
+      and virus scanning solution for United Utilities.
     i18n: company_vertex_desc
   date:
     detail: |
@@ -75,7 +75,8 @@
     detail: |
       During this time I migrated from Mainframe Systems programmer to
       Unix Systems Administrator and gained my first experience of
-      Linux.
+      GNU/Linux. Programming in Shell, C. Deployed and administered a
+      manufacturing MFGPRO application.
     i18n: company_origin_desc
   date:
     detail: |
@@ -108,7 +109,11 @@
     detail: |
       My first job out of college working at Multipart, which at the time
       was Europe's largest robotic warehouse. Focusing on just-in-time
-      scheduling systems and integrations.
+      scheduling systems and warehouse integrations (barcode scanning, laser printing etc).
+      As an analyst programmer I focused on Pl1, Cobol, tebol, Mantis 4GL, Easytrieve.
+      Then as a systems programmer using MVS/XA Assembler, VTAM, BTAM, RTAM, 3270-Datastream,
+      SNI SDLC Gateways and Networking. During this time I acquired core disciplines
+      in such areas as SMP/E and CBIPOs - upgrading and ensuring service continuity.
     i18n: company_daf_desc
   date:
     detail: |
