@@ -21,7 +21,7 @@
   gh_user: gbevan
   repo: atom-drawio
   img: /static/assets/img/landing/github_avatar.png
-  desc: Atom package to allow creating and editting of draw.io diagrams 
+  desc: Atom package to allow creating and editting of draw.io diagrams
 
 - name: sails-arangodb
   i18n: sails_arangodb
@@ -50,6 +50,13 @@
   repo: sshui
   img: /static/assets/img/landing/github_avatar.png
   desc: UI for persistent SSH Sessions and Tunnels with node.js, nw, Angular and vaulted/encrypted lowdb json db
+
+- name: yamlsh
+  i18n: yamlsh
+  gh_user: gbevan
+  repo: yamlsh
+  img: /static/assets/img/landing/github_avatar.png
+  desc: "Wrote this learning Go - parse YAML from a shell #! shebang to environment vars"
 
 - name: pastmon
   i18n: pastmon
