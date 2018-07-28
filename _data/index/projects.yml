@@ -58,10 +58,10 @@
   img: /static/assets/img/landing/github_avatar.png
   desc: "Wrote this learning Go - parse YAML from a shell #! shebang to environment vars"
 
-- name: goswim
-  i18n: goswim
+- name: gostint
+  i18n: gostint
   gh_user: goethite
-  repo: goswim
+  repo: gostint
   img: /static/assets/img/landing/github_avatar.png
   desc: "A Shallow RESTful api for Ansible, Terraform, etc, integrated with Hashicorp Vault AppRole Authentication and Docker API"
 
