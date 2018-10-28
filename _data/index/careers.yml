@@ -9,16 +9,16 @@
       <br>
       - Full stack developer with Node.js, Feathersjs, Angular/Typescript, d3.js.
       <br>
-      - Developed in-house application called Raffia (Realtime Ansible Framework for Integrated Automation)
+      - Developed application called Raffia (Realtime Ansible Framework for Integrated Automation)
       which has been levereged in the core Bionix Program.
       <br>
-      - DevOps with Jenkins Pipeline, CI/CD, Terraform, Kubernetes, Ansible and
-      Puppet. AWS, Lambda, Step Functions, API GW. vSphere.
+      - DevOps with Jenkins Pipeline, CI/CD, Terraform, Vault, Kubernetes/helm, Ansible and
+      Puppet. AWS, Lambda, API GW. vSphere. Go (Golang).
       <br>
       - MEAN, Responsive Design, RESTful, WebSockets, Docker, Vagrant, Go, Vault,
       Agile Scrum, Lean Methodology, ...
       <br>
-      - Core skill is learning new skills.
+      - Core skill is learning new skills and applying them.
     i18n: lead_developer
   date:
     detail: |
@@ -46,7 +46,7 @@
   desc:
     detail: |
       Architected, deployed and administered secure internet firewall
-      and virus scanning solution for United Utilities.
+      and virus scanning solution.
     i18n: company_vertex_desc
   date:
     detail: |
