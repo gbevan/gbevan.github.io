@@ -65,6 +65,13 @@
   img: /static/assets/img/landing/github_avatar.png
   desc: "A Shallow RESTful api for Ansible, Terraform, etc, integrated with Hashicorp Vault AppRole Authentication and Docker API"
 
+- name: ansible-hashivault-vars-plugin
+  i18n: ansible-hashivault-vars-plugin
+  gh_user: gbevan
+  repo: ansible-hashivault-vars-plugin
+  img: /static/assets/img/landing/github_avatar.png
+  desc: "Lookup secrets/creds in Hashicorp Vault in group/domain/host precedence order"
+
 - name: pastmon
   i18n: pastmon
   gh_user: gbevan
