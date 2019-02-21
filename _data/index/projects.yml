@@ -67,7 +67,7 @@
 
 - name: ansible-hashivault-vars-plugin
   i18n: ansible-hashivault-vars-plugin
-  gh_user: gbevan
+  gh_user: goethite
   repo: ansible-hashivault-vars-plugin
   img: /static/assets/img/landing/github_avatar.png
   desc: "Lookup secrets/creds in Hashicorp Vault in group/domain/host precedence order"
