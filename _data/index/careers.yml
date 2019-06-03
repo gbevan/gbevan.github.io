@@ -7,13 +7,15 @@
     detail: |
       Current Focus:
       <br>
+      - DevOps with Jenkins Pipeline, CI/CD.
+      Hashicorp Vagrant, Terraform, Consul & Vault.
+      Kubernetes/helm, Ansible and Puppet.
+      AWS, Lambda, API GW. vSphere. Go (Golang).
+      <br>
       - Full stack developer with Node.js, Feathersjs, Angular/Typescript, d3.js.
       <br>
       - Developed application called Raffia (Realtime Ansible Framework for Integrated Automation)
       which has been levereged in the core Bionix Program.
-      <br>
-      - DevOps with Jenkins Pipeline, CI/CD, Terraform, Vault, Kubernetes/helm, Ansible and
-      Puppet. AWS, Lambda, API GW. vSphere. Go (Golang).
       <br>
       - MEAN, Responsive Design, RESTful, WebSockets, Docker, Vagrant, Go, Vault,
       Agile Scrum, Lean Methodology, ...
@@ -36,7 +38,7 @@
       </table>
     i18n: present_date
   job:
-    detail: Lead Developer, System Design Architect and Technologist
+    detail: Design Lead, Lead Developer, System Design Architect and Technologist
     i18n: lead_developer
   icon: fa-plus-square
 
@@ -47,6 +49,8 @@
     detail: |
       Architected, deployed and administered secure internet firewall
       and virus scanning solution.
+      <br>
+      Attended first semesta degree course on Information Security.
     i18n: company_vertex_desc
   date:
     detail: |

@@ -2,12 +2,54 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: partout
-  i18n: partout
-  gh_user: partoutx
-  repo: partout
-  img: /static/assets/img/landing/partoutx.jpg
-  desc: A pure Javascript/Node.js DevOps Data and Event Driven Policy Based Configuration Management tool for the Internet of Everything - Where policies compile to native machine code at runtime.
+- name: lucy_proxy
+  i18n: lucy_proxy
+  gh_user: goethite
+  repo: lucy_proxy
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Experiments in Microservices Loose Coupling
+
+- name: gostint
+  i18n: gostint
+  gh_user: goethite
+  repo: gostint
+  img: /static/assets/img/landing/github_avatar.png
+  desc: "A Shallow RESTful api for Ansible, Terraform, etc, integrated with Hashicorp Vault AppRole Authentication and Docker API"
+
+- name: hashivault_vars
+  i18n: hashivault_vars
+  gh_user: goethite
+  repo: hashivault_vars
+  img: /static/assets/img/landing/github_avatar.png
+  desc: "Lookup secrets/creds in Hashicorp Vault in group/domain/host precedence order"
+
+- name: sshui
+  i18n: sshui
+  gh_user: gbevan
+  repo: sshui
+  img: /static/assets/img/landing/github_avatar.png
+  desc: UI for persistent SSH Sessions and Tunnels with node.js, nw, Angular and vaulted/encrypted lowdb json db
+
+- name: atom-drawio
+  i18n: atom-drawio
+  gh_user: gbevan
+  repo: atom-drawio
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Atom package to allow creating and editting of draw.io diagrams
+
+- name: color-tabs-byproject
+  i18n: color-tabs-byproject
+  gh_user: gbevan
+  repo: color-tabs-byproject
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Atom plugin to add colors to tabs by project folder name (and optionally subfolders).
+
+- name: yamlsh
+  i18n: yamlsh
+  gh_user: gbevan
+  repo: yamlsh
+  img: /static/assets/img/landing/github_avatar.png
+  desc: "Wrote this learning Go - parse YAML from a shell #! shebang to environment vars"
 
 - name: vault-e2e-plugin
   i18n: vault_e2e_plugin
@@ -16,12 +58,19 @@
   img: /static/assets/img/landing/github_avatar.png
   desc: Proof-of-concept Hashicorp Vault End-to-End Encryption Plugin with secret interpolation.
 
-- name: atom-drawio
-  i18n: atom-drawio
+- name: partout
+  i18n: partout
+  gh_user: partoutx
+  repo: partout
+  img: /static/assets/img/landing/partoutx.jpg
+  desc: A pure Javascript/Node.js DevOps Data and Event Driven Policy Based Configuration Management tool for the Internet of Everything - Where policies compile to native machine code at runtime.
+
+- name: pastmon
+  i18n: pastmon
   gh_user: gbevan
-  repo: atom-drawio
+  repo: pastmon
   img: /static/assets/img/landing/github_avatar.png
-  desc: Atom package to allow creating and editting of draw.io diagrams
+  desc: OpenSource Passive Application Response Time Monitor (see http://pastmon.sourceforge.net/wp/)
 
 - name: sails-arangodb
   i18n: sails_arangodb
@@ -43,38 +92,3 @@
   repo: dockerfile-syntax-highlighter
   img: /static/assets/img/landing/github_avatar.png
   desc: Brackets syntax highlighter for Dockerfiles
-
-- name: sshui
-  i18n: sshui
-  gh_user: gbevan
-  repo: sshui
-  img: /static/assets/img/landing/github_avatar.png
-  desc: UI for persistent SSH Sessions and Tunnels with node.js, nw, Angular and vaulted/encrypted lowdb json db
-
-- name: yamlsh
-  i18n: yamlsh
-  gh_user: gbevan
-  repo: yamlsh
-  img: /static/assets/img/landing/github_avatar.png
-  desc: "Wrote this learning Go - parse YAML from a shell #! shebang to environment vars"
-
-- name: gostint
-  i18n: gostint
-  gh_user: goethite
-  repo: gostint
-  img: /static/assets/img/landing/github_avatar.png
-  desc: "A Shallow RESTful api for Ansible, Terraform, etc, integrated with Hashicorp Vault AppRole Authentication and Docker API"
-
-- name: hashivault_vars
-  i18n: hashivault_vars
-  gh_user: goethite
-  repo: hashivault_vars
-  img: /static/assets/img/landing/github_avatar.png
-  desc: "Lookup secrets/creds in Hashicorp Vault in group/domain/host precedence order"
-
-- name: pastmon
-  i18n: pastmon
-  gh_user: gbevan
-  repo: pastmon
-  img: /static/assets/img/landing/github_avatar.png
-  desc: OpenSource Passive Application Response Time Monitor (see http://pastmon.sourceforge.net/wp/)
