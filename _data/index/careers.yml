@@ -7,6 +7,8 @@
     detail: |
       Current Focus:
       <br>
+      - Microservices archtectures. Loose Coupling, Kafka, Kubeless.
+      <br>
       - DevOps with Jenkins Pipeline, CI/CD.
       Hashicorp Vagrant, Terraform, Consul & Vault.
       Kubernetes/helm, Ansible and Puppet.
