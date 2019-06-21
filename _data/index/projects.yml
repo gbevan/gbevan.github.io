@@ -2,12 +2,12 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: lucy_proxy
-  i18n: lucy_proxy
+- name: lucygw
+  i18n: lucygw
   gh_user: goethite
-  repo: lucy_proxy
+  repo: lucygw
   img: /static/assets/img/landing/github_avatar.png
-  desc: Experiments in Microservices Loose Coupling
+  desc: Experiments in Microservices Loose Coupling with Go, Kafka, Kubeless and Python
 
 - name: gostint
   i18n: gostint
