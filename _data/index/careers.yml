@@ -29,7 +29,7 @@
       <table style="margin-bottom:-20px;">
         <tr>
           <td>
-            Present Date
+            May 2024
           </td>
         </tr>
         <tr>
@@ -40,7 +40,7 @@
       </table>
     i18n: present_date
   job:
-    detail: Design Lead, Lead Developer, System Design Architect and Technologist
+    detail: Manager Software Engineering, Design Lead, Lead Developer, System Design Architect and Technologist
     i18n: lead_developer
   icon: fa-plus-square
 
