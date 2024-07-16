@@ -5,9 +5,8 @@
     i18n: dxc_technology
   desc:
     detail: |
-      Current Focus:
       <br>
-      - Microservices archtectures. Loose Coupling, Kafka, Kubeless.
+      - Microservices archtectures. Loose Coupling, Kafka, Automation.
       <br>
       - DevOps with Jenkins Pipeline, CI/CD.
       Hashicorp Vagrant, Terraform, Consul & Vault.
@@ -17,7 +16,7 @@
       - Full stack developer with Node.js, Feathersjs, Angular/Typescript, d3.js.
       <br>
       - Developed application called Raffia (Realtime Ansible Framework for Integrated Automation)
-      which has been levereged in the core Bionix Program.
+      which has been levereged in the core Bionix/Edge Programs.
       <br>
       - MEAN, Responsive Design, RESTful, WebSockets, Docker,
       Agile Scrum, Lean Methodology, ...
