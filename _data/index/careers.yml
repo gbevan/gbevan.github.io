@@ -1,7 +1,25 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: DXC.Technology (formally Computer Sciences Corporation)
+    detail: Retired. Amateur Radio and Electronics Hobbyist.
+    i18n: retired
+  date:
+    detail: |
+      <table style="margin-bottom:-20px;">
+        <tr>
+          <td>
+            Present Date
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align:center; font-size:14pt;">
+            &uarr;
+          </td>
+        </tr>
+      </table>
+    i18n: present_date
+- name:
+    detail: DXC.Technology (formally Computer Sciences Corporation [CSC])
     i18n: dxc_technology
   desc:
     detail: |
@@ -37,7 +55,7 @@
           </td>
         </tr>
       </table>
-    i18n: present_date
+    i18n: may_2024
   job:
     detail: Manager Software Engineering, Design Lead, Lead Developer, System Design Architect and Technologist
     i18n: lead_developer

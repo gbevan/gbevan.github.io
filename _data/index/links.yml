@@ -3,13 +3,13 @@
   first_name:
   desc: PasTmon project on sourceforge
   website: http://pastmon.sourceforge.net/wp/
-  email: graham.bevan@ntlworld.com
+  email: glbevan7@gmail.com
 
-- last_name: rz4fap
-  first_name:
-  desc: Reaping Zombies 4 Fun And Profit blog site
-  website: http://www.reapingzombies4funandprofit.com/rz4fap/blog/
-  email: graham.bevan@ntlworld.com
+# - last_name: rz4fap
+#   first_name:
+#   desc: Reaping Zombies 4 Fun And Profit blog site
+#   website: http://www.reapingzombies4funandprofit.com/rz4fap/blog/
+#   email: graham.bevan@ntlworld.com
 
 #- last_name: Donate
 #  first_name: Jalpc

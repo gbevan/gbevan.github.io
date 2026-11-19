@@ -2,6 +2,13 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: ycx_rf_notebooks
+  i18n: ycx_rf_notebooks
+  gh_user: M0YCX
+  repo: ycx_rf_notebooks
+  img: /static/assets/img/landing/github_avatar.png
+  desc: Jupyter notebooks studies in learning Amateur Radio, Electronics and Math.
+
 - name: lucygw
   i18n: lucygw
   gh_user: goethite
